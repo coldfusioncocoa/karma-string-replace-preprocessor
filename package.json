@@ -1,0 +1,21 @@
+{
+  "name": "karma-string-replace-preprocessor",
+  "version": "1.0.3",
+  "description": "A Karma preprocessor plugin. Do string replacement in modules on the fly.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coldfusioncocoa/karma-string-replace-preprocessor"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+	"javascript-replace",
+	"string-replace",
+	"string",
+	"replace"
+  ],
+  "author": "Matt Fuller <npm@coldfusioncocoa.com>",
+  "dependencies": {},
+  "devDependencies": {}
+}

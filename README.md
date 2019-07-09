@@ -6,7 +6,7 @@
 The easiest way is to keep `karma-string-replace-preprocessor` as a devDependency.
 You can simple do it by:
 ```bash
-npm install karma-coffee-preprocessor --save-dev
+npm install karma-string-replace-preprocessor --save-dev
 ```
 
 ## Configuration
